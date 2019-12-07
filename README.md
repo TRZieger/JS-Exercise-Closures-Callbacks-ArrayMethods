@@ -13,7 +13,7 @@ Use Google effectively! For example, let's say you want to learn more about the 
 ```
 ```
   reduce site:mozilla.org
-```
+```fwefwefwegwrgwrgrgwrgwrgwrgwrgrgwgwg GITHUB
 ```
   javascript reduce site:stackoverflow.com
 ```
